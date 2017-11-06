@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ola
 linia2;
+=======
+test
+var i = 3
+var i = 4
+>>>>>>> 567ba44fa8b47834716acbdbc36830a8b09a0aa5
